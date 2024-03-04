@@ -9,7 +9,7 @@ from torch import autocast
 from diffusers import StableDiffusionPipeline 
 
 # Create the app
-app = tk.Tk()
+app = kk.Tk()
 app.geometry("532x632")
 app.title("Stable Bud") 
 ctk.set_appearance_mode("dark") 
